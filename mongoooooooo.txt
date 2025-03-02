@@ -1,5 +1,0 @@
-blYu1M2NicGM8nJr
-plzdontloopro
-
-
-mongodb+srv://plzdontloopro:blYu1M2NicGM8nJr@cluster0.gua2p.mongodb.net/local_library?retryWrites=true&w=majority&appName=Cluster0
